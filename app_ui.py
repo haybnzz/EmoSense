@@ -6,7 +6,7 @@ from torchvision import transforms
 from PIL import Image
 import os
 
-# Define the device
+# Define the devices
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # Define the CNN model (must match the architecture used during training)
