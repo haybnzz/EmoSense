@@ -1,7 +1,7 @@
 # EmoSense
 
 
-![EmoSense Logo](https://raw.githubusercontent.com/haybnzz/EmoSense/refs/heads/main/images/EmoSense.png)
+![EmoSense Logo](https://raw.githubusercontent.com/haybnzz/EmoSense/refs/heads/main/Emosense.png)
 
 [![Python - EmoSense](https://img.shields.io/static/v1?label=Python&message=EmoSense&style=for-the-badge&logo=python&logoSize=auto&labelColor=4B4453&color=FF6F61)](https://github.com/haybnzz/EmoSense)
 [![CC BY-NC 4.0 License](https://img.shields.io/static/v1?label=License&message=CC%20BY-NC%204.0&style=for-the-badge&logo=creative-commons&logoSize=auto&labelColor=4B4453&color=FFD166)](https://github.com/haybnzz/EmoSense/blob/main/LICENSE)
@@ -36,12 +36,12 @@
 
 
 
-`git clone https://github.com/your-username/EcomPredict.git
-cd EcomPredict
-pip install -r requirements.txt
-python app.py
-python app_ui.py
-python app_cmd.py`
+`git clone https://github.com/haybnzz/EmoSense.git`
+`cd EmoSense`
+`pip install -r requirements.txt`
+`python app.py`
+`python app_ui.py`
+`python app_cmd.py`
 
 
 ## EmoSense Resources
@@ -81,5 +81,5 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 ## ☕ Support
 
-Donate via Monero: `4567898hhjghgdt4rf76yyj7tyuguyiy8uh`  
+Donate via Monero: `45PU6txuLxtFFcVP95qT2xXdg7eZzPsqFfbtZp5HTjLbPquDAugBKNSh1bJ76qmAWNGMBCKk4R1UCYqXxYwYfP2wTggZNhq`  
 [<img src="https://img.shields.io/badge/Copy-Address-FFD166?style=flat&logo=clipboard&logoColor=white" alt="Copy Monero Address" onclick="navigator.clipboard.writeText('45PU6txuLxtFFcVP95qT2xXdg7eZzPsqFfbtZp5HTjLbPquDAugBKNSh1bJ76qmAWNGMBCKk4R1UCYqXxYwYfP2wTggZNhq')">](javascript:void(0))
