@@ -11,7 +11,7 @@ base_dir = 'emotion'
 train_dir = os.path.join(base_dir, 'train')
 test_dir = os.path.join(base_dir, 'test')
 
-# Image parameters
+# Image parameter
 img_height, img_width = 48, 48
 batch_size = 32
 num_epochs = 50
